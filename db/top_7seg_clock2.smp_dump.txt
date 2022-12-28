@@ -1,0 +1,12 @@
+
+State Machine - |top_7seg_clock2|controller:ctr|state_t
+Name state_t.s22 state_t.s21 state_t.s20 state_t.s12 state_t.s11 state_t.s10 state_t.s02 state_t.s01 state_t.s00 
+state_t.s00 0 0 0 0 0 0 0 0 0 
+state_t.s01 0 0 0 0 0 0 0 1 1 
+state_t.s02 0 0 0 0 0 0 1 0 1 
+state_t.s10 0 0 0 0 0 1 0 0 1 
+state_t.s11 0 0 0 0 1 0 0 0 1 
+state_t.s12 0 0 0 1 0 0 0 0 1 
+state_t.s20 0 0 1 0 0 0 0 0 1 
+state_t.s21 0 1 0 0 0 0 0 0 1 
+state_t.s22 1 0 0 0 0 0 0 0 1 

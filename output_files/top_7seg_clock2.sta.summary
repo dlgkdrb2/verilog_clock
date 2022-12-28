@@ -1,0 +1,221 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk_100MHz'
+Slack : -3.116
+TNS   : -54.569
+
+Type  : Slow 1200mV 85C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -1.475
+TNS   : -5.473
+
+Type  : Slow 1200mV 85C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -1.460
+TNS   : -6.234
+
+Type  : Slow 1200mV 85C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -1.440
+TNS   : -6.446
+
+Type  : Slow 1200mV 85C Model Hold 'clk_100MHz'
+Slack : -0.063
+TNS   : -0.063
+
+Type  : Slow 1200mV 85C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 0.715
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.724
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -2.468
+TNS   : -14.808
+
+Type  : Slow 1200mV 85C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -0.403
+TNS   : -2.418
+
+Type  : Slow 1200mV 85C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.227
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.797
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 2.937
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_100MHz'
+Slack : -3.000
+TNS   : -59.540
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 0C Model Setup 'clk_100MHz'
+Slack : -2.787
+TNS   : -45.903
+
+Type  : Slow 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -1.211
+TNS   : -4.314
+
+Type  : Slow 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -1.201
+TNS   : -5.023
+
+Type  : Slow 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -1.188
+TNS   : -5.186
+
+Type  : Slow 1200mV 0C Model Hold 'clk_100MHz'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Slow 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.414
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 0.651
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.660
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -2.128
+TNS   : -12.768
+
+Type  : Slow 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -0.182
+TNS   : -1.092
+
+Type  : Slow 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.631
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 2.668
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_100MHz'
+Slack : -3.000
+TNS   : -59.540
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Fast 1200mV 0C Model Setup 'clk_100MHz'
+Slack : -0.961
+TNS   : -11.611
+
+Type  : Fast 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -0.201
+TNS   : -0.268
+
+Type  : Fast 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -0.200
+TNS   : -0.690
+
+Type  : Fast 1200mV 0C Model Setup 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -0.186
+TNS   : -0.513
+
+Type  : Fast 1200mV 0C Model Hold 'clk_100MHz'
+Slack : -0.226
+TNS   : -0.226
+
+Type  : Fast 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.335
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -0.856
+TNS   : -5.136
+
+Type  : Fast 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.546
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : 0.495
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : 1.547
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_100MHz'
+Slack : -3.000
+TNS   : -49.888
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bL|temp3'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|btn_debouncer:bR|temp3'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'middle_7seg_clock:middle|top_bin_clock:bin|oneHz_generator:uno|clk_out_reg'
+Slack : -1.000
+TNS   : -6.000
+
+------------------------------------------------------------
